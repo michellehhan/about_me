@@ -1,7 +1,7 @@
 //
 //  ContentView.swift
 //  about_me
-//
+//  hello
 //  Created by Michelle Han on 7/27/23.
 
 import SwiftUI
